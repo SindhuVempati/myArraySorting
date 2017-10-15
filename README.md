@@ -1,3 +1,3 @@
 # myArraySorting
 
-Given a list of element. This eprogram sorts them an ddisplays linearly in Table View
+Given a list of element. This program sorts them an displays linearly in Table View
